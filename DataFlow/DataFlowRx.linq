@@ -1,10 +1,3 @@
-<Query Kind="Statements">
-  <NuGetReference>System.Reactive</NuGetReference>
-  <NuGetReference>System.Threading.Tasks.Dataflow</NuGetReference>
-  <Namespace>System.Threading.Tasks</Namespace>
-  <Namespace>System.Threading.Tasks.Dataflow</Namespace>
-  <Namespace>System.Reactive.Linq</Namespace>
-</Query>
 
 var blockOptions = new ExecutionDataflowBlockOptions
 {
